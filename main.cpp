@@ -1,4 +1,4 @@
-//heapMerging.cpp for Assignment 7
+//heapMerging.cpp
 
 //include statements
 #include <iostream>
